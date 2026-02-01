@@ -29,7 +29,8 @@ a) Review and optimize discount strategies for products that consistently genera
 b) Focus marketing and inventory efforts on high-performing categories and sub-categories that drive maximum revenue.
 c) Re-evaluate pricing and cost structures for customer segments with high sales but low profitability.
 d) Strengthen presence in high-profit regions and analyze underperforming states to identify improvement opportunities.
-e) Leverage seasonal sales trends to plan promotions, inventory, and staffing more effectively.
-f) Consider discontinuing or redesigning products that consistently underperform in both sales and profit.
+* Leverage seasonal sales trends to plan promotions, inventory, and staffing more effectively.
+* Consider discontinuing or redesigning products that consistently underperform in both sales and profit.
 
 Dashboard Review:
+https://github.com/vsharma112/vsharma1112/blob/main/E-Commerce%20Sales%20Dashboard.png
