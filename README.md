@@ -33,7 +33,7 @@ This dashboard highlights important trends in sales and profitability across pro
 * Consider discontinuing or redesigning products that consistently underperform in both sales and profit.
 
 Dashboard Preview:
-## 📊 Dashboard Preview
+## 📊 E-commerce-sales-dashboard
 
 ![Investment Dashboard](assets/e-commerce-sales-dashboard.png)
 
